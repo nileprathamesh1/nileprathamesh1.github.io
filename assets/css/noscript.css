@@ -6,8 +6,8 @@
 
 /* BG */
 
-	body.is-preload #bg:before {
-		background-color: transparent;
+	body.is-preload #bg:after {
+	background-image:transparent;
 	}
 
 /* Header */
@@ -26,7 +26,7 @@
 		body.is-preload #header .content .inner {
 			max-height: none;
 			padding: 3rem 2rem;
-			opacity: 1;
+			opacity: 10;
 		}
 
 /* Main */
